@@ -1,6 +1,7 @@
 *.class
 .idea/
 out/
+!client/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
