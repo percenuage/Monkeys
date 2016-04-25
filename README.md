@@ -1,2 +1,2 @@
-# Monkeys
-I3 - Qualité - Test
+# Monkey Island
+ESEO - I3 - Quality/Test
